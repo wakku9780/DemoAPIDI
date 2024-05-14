@@ -1,0 +1,6 @@
+@DemoAPIDI_HostAddress = http://localhost:5048
+
+GET {{DemoAPIDI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
